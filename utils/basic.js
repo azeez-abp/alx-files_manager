@@ -1,4 +1,4 @@
-mport { ObjectId } from 'mongodb';
+import { ObjectId } from 'mongodb';
 
 /**
  * Module with basic utilities
